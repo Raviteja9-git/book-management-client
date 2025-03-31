@@ -62,8 +62,8 @@ Make sure you have the following installed:
 ### 1️ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/book-manager-frontend.git
-cd book-manager-frontend
+git clone https://github.com/your-username/book-manager-client.git
+cd book-manager-client
 ```
 
 ### 2️ Install Dependencies
